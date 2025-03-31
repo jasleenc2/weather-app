@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="app_zip_code">Zip Code</string>
+    <string name="app_run">Run</string>
+    <string name="this_hour">Current Hour</string>
+    <string name="next_hour">Next Hour</string>
+    <string name="third_hour">Third hour from now.</string>
+    <string name="fourth_hour">Fourth hour from now</string>
+    <string name="temp">Temprature</string>
+    <string name="empty" />
+</resources>
